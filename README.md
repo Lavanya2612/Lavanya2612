@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavanya Jain</h1>
 <h3 align="center">A passionate and a curious artist, coder and a guitar player who loves dogs and exploring!</h3>
 
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
+
 
 - 🌱 I’m currently learning **to code like a genius and make many awesome projects!**
 
